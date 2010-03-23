@@ -168,6 +168,7 @@ Websites {#sites}
 - [Congrelate](http://congrelate.com) Congress data mashup visualization tool.
 - [Scholas](http://schol.as) Social file-sharing for academics.
 - [Gemcutter](http://gemcutter.org) Awesome gem hosting.
+- [UkOfficeAdvisers](http://ukofficeadviser.co.uk/) Find serviced offices in the UK.
 
 Companies using Sinatra {#biz}
 -----------------------
@@ -194,3 +195,4 @@ Companies using Sinatra {#biz}
 - [Osborne Brook](http://osbornebrook.co.uk)
 - [Robot Mode](http://robotmo.de)
 - [thoughtbot](http://thoughtbot.com)
+- [Forward](http://forward.co.uk)
